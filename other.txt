@@ -1,5 +1,1 @@
-
-i made another changes
-
-update other files then yes
-
+this is another example of conflict
