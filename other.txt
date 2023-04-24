@@ -1,1 +1,4 @@
 this is another example of conflict
+
+
+let say i update this file from another location and push to cloud
